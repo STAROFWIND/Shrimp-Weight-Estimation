@@ -1,0 +1,14 @@
+numpy
+setuptools
+scipy
+Pillow
+scikit-image
+tensorflow-gpu
+matplotlib
+keras
+opencv-python
+h5py
+imutils
+tqdm
+sklearn
+pandas
